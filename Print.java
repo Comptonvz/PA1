@@ -1,6 +1,5 @@
-import java.util.Scanner; 
 package PA1_Print.src.main.java;
-
+import java.util.Scanner; 
 public class Print {
 public static void main(String[] args){
    Scanner scan = new Scanner(System.in);
